@@ -1,4 +1,4 @@
-﻿Individual,Morph,Seconds,Initial Velocity,Mass,Length,Easting,Northing
+﻿individual,morph,tail.sec,tail.vel,mass.g,length.cm,easting,northing
 16O300,S,110,3,0.8,3.9,350827,4699989
 16O301,S,160,2.3,0.7,4,350827,4699989
 16O302,S,250,2.8,0.9,3.9,350831,4699988
